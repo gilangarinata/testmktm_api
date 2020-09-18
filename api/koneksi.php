@@ -1,13 +1,13 @@
 <?php
-// $servername = "localhost";
-// $username = "u151422786_mktm";
-// $password = "susumaktam21";
-// $dbname = "u151422786_mktm";
-
 $servername = "localhost";
-$username = "root";
-$password = "";
-$dbname = "maktam";
+$username = "u151422786_mktm";
+$password = "susumaktam21";
+$dbname = "u151422786_mktm";
+
+// $servername = "localhost";
+// $username = "root";
+// $password = "";
+// $dbname = "maktam";
 
 
 // Create connection
